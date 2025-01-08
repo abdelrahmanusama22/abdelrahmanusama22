@@ -48,6 +48,4 @@
 ### Stats:
 <div align="center" style="background-color: #2d2d2d; padding: 10px; border-radius: 10px;">
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmanusama22&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" /></p>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=abdelrahmanusama22&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" /></p>
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmanusama22&theme=dark" alt="Streak Stats" /></p>
 </div>
